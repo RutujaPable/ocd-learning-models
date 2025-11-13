@@ -90,13 +90,6 @@ This work aligns with current computational psychiatry best practices:
 - **OCD mechanisms**: Validates Apergis-Schoute et al. (2017) safety learning deficits
 - **Adaptive design**: Implements Kwon et al. (2022) optimization principles
 
-## Citation
-
-If you use this code, please cite:
-```
-[Your Name] (2025). Computational Modeling of Generalization in OCD. 
-GitHub repository: https://github.com/[your-username]/ocd_learning_project
-```
 
 ## References
 
@@ -105,11 +98,7 @@ GitHub repository: https://github.com/[your-username]/ocd_learning_project
 3. Apergis-Schoute, A. M., et al. (2017). Neural basis of impaired safety signaling in OCD. *Nature Neuroscience*.
 4. Kwon, M., et al. (2022). Adaptive design optimization for psychiatric assessment. *Computational Psychiatry*.
 
-## Contact
 
-[Your Name] - [Your Email]
-
-**Prepared for**: EPFL Developmental Computational Psychiatry Lab Internship Application
 
 ---
 
